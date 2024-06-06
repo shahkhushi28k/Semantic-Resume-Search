@@ -1,5 +1,6 @@
-streamlit
-spacy
-numpy
-scikit-learn
-PyPDF2
+numpy==1.23.3
+streamlit==1.18.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.2
+scikit-learn==1.1.1
+pandas==1.4.3
