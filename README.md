@@ -1,4 +1,4 @@
-#Resume Semantic Search
+##Resume Semantic Search
 
 This project is a web-based application for performing semantic search on resumes using natural language queries. The application leverages machine learning models to encode resumes and queries, and it uses FAISS for efficient similarity search. The web interface is built with Streamlit.
 
